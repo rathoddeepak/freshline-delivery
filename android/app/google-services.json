@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "582369065521",
+    "project_id": "clufter",
+    "storage_bucket": "clufter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582369065521:android:0b278b764a5490048af310",
+        "android_client_info": {
+          "package_name": "com.clufter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582369065521-tehf2c998o2pv923r4dvi50c6g8jhjfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clufter",
+            "certificate_hash": "48614efbd78e641634a369381396eab318d0d2f4"
+          }
+        },
+        {
+          "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtAYWxHbl_oNxygQGyaLIh6bgzZjpKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582369065521:android:6c0760e77de1ff118af310",
+        "android_client_info": {
+          "package_name": "com.clufter.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582369065521-bpvr0ue9463dkiscag3g2o705bi5ei96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clufter.delivery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtAYWxHbl_oNxygQGyaLIh6bgzZjpKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582369065521:android:30765d83252328f48af310",
+        "android_client_info": {
+          "package_name": "com.clufter.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582369065521-tt92m0lrp55gc22itgdh85364ej7h54c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clufter.vendor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtAYWxHbl_oNxygQGyaLIh6bgzZjpKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582369065521-795f16ts6c47pr7ghlmccjc80m1mvok3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

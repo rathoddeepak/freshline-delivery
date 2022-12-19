@@ -1,0 +1,1101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Toua",
+				"TouchableOpacity"
+			],
+			[
+				"font",
+				"fontWeight"
+			],
+			[
+				"bo",
+				"borderRadius"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"bagr",
+				"backgroundColor"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"border",
+				"borderRadius"
+			],
+			[
+				"b",
+				"blackTrans"
+			],
+			[
+				"cl",
+				"cl_address"
+			],
+			[
+				"To",
+				"TouchableOpacity"
+			],
+			[
+				"Toas",
+				"ToastAndroid"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"age",
+				"agents"
+			],
+			[
+				"eq",
+				"equalTo"
+			],
+			[
+				"mar",
+				"marginBottom"
+			],
+			[
+				"contentC",
+				"contentContainerStyle"
+			],
+			[
+				"ea",
+				"earning"
+			],
+			[
+				"ta",
+				"task_id"
+			],
+			[
+				"tas",
+				"task_id"
+			],
+			[
+				"pi",
+				"pickup_id"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"as",
+				"askDistance"
+			],
+			[
+				"deli",
+				"delivery_id"
+			],
+			[
+				"pho",
+				"phone_no"
+			],
+			[
+				"pick",
+				"pickup_id"
+			],
+			[
+				"hero",
+				"heroId"
+			],
+			[
+				"deliv",
+				"delivery"
+			],
+			[
+				"pic",
+				"pickups"
+			],
+			[
+				"OR",
+				"ORDER_READY"
+			],
+			[
+				"ORDE",
+				"ORDER_READY"
+			],
+			[
+				"ORDER",
+				"ORDER_READY"
+			],
+			[
+				"prod",
+				"productList"
+			],
+			[
+				"st",
+				"statusText"
+			],
+			[
+				"stat",
+				"statusColor"
+			],
+			[
+				"get",
+				"getProductStatus"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"c",
+				"currentTimestamp"
+			],
+			[
+				"setTime",
+				"setTimeStamp"
+			],
+			[
+				"cu",
+				"currentTimestamp"
+			],
+			[
+				"AV",
+				"AVL_FROM"
+			],
+			[
+				"T",
+				"ToastAndroid"
+			],
+			[
+				"btn",
+				"btnInner2"
+			],
+			[
+				"curr",
+				"current_id"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"fl",
+				"flexDirection"
+			],
+			[
+				"colla",
+				"collapsed"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"main",
+				"mainCatList"
+			],
+			[
+				"init",
+				"initialState"
+			],
+			[
+				"rese",
+				"reset3"
+			],
+			[
+				"handle",
+				"handleClose"
+			],
+			[
+				"pro",
+				"productList"
+			],
+			[
+				"cover",
+				"cover_url"
+			],
+			[
+				"sub_cat",
+				"sub_cat_id"
+			],
+			[
+				"set",
+				"setDefaultValue"
+			],
+			[
+				"h",
+				"handleProductLoad"
+			],
+			[
+				"sele",
+				"selectedUrls"
+			],
+			[
+				"se",
+				"selectedUrls"
+			],
+			[
+				"fon",
+				"fontWeight"
+			],
+			[
+				"er",
+				"errorTxt"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"al",
+				"alignItems"
+			],
+			[
+				"handel",
+				"handleClose"
+			],
+			[
+				"or",
+				"origin_id"
+			],
+			[
+				"cla",
+				"class_id"
+			],
+			[
+				"bra",
+				"brand_id"
+			],
+			[
+				"clas",
+				"class_id"
+			],
+			[
+				"in",
+				"ingrediants"
+			],
+			[
+				"un",
+				"unit_text"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"algi",
+				"alignSelf"
+			],
+			[
+				"ma",
+				"marginTop"
+			],
+			[
+				"fle",
+				"flexDirection"
+			],
+			[
+				"dia",
+				"dialog"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"selected",
+				"selectedCatId"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"co",
+				"cogoToast"
+			],
+			[
+				"Tou",
+				"TouchableOpacity"
+			],
+			[
+				"bt",
+				"btnTxt"
+			],
+			[
+				"react",
+				"react-native-web"
+			],
+			[
+				"vali",
+				"validName"
+			],
+			[
+				"padding",
+				"paddingLeft"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"marg",
+				"marginBottom"
+			],
+			[
+				"margn",
+				"marginBottom"
+			],
+			[
+				"sub",
+				"subCatList"
+			],
+			[
+				"react-n",
+				"react-native-web"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"te",
+				"teams"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"ge",
+				"getTeam"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"expo",
+				"export"
+			],
+			[
+				"not",
+				"notchText"
+			],
+			[
+				"cit",
+				"cityList"
+			],
+			[
+				"ci",
+				"cityList"
+			],
+			[
+				"ass",
+				"assigned"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"pend",
+				"pending"
+			],
+			[
+				"les",
+				"lessThan"
+			],
+			[
+				"he",
+				"heroObj"
+			],
+			[
+				"ad",
+				"address_id"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"cur",
+				"currentAddress"
+			],
+			[
+				"add",
+				"addressData"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"Touc",
+				"TouchableOpacity"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"her",
+				"heroId"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"retun",
+				"return"
+			],
+			[
+				"date",
+				"dateData1"
+			],
+			[
+				"dat",
+				"dateText"
+			],
+			[
+				"Touchab",
+				"TouchableOpacity"
+			],
+			[
+				"componen",
+				"componentDidMount"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"acc",
+				"access"
+			],
+			[
+				"M",
+				"MAPBOX_TOKEN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 15 files for \"parse.Q\"\n\n/Users/clufter/dev/delivery/src/screens/home.js:\n  348  \t\ttry {\n  349  \t\t\tthis.setState({status:-1})\n  350: \t\t\tconst query = new Parse.Query(helper.tbls.AG);\n  351  \t\t\tquery.select(['status']);\n  352  \t\t\tquery.equalTo(\"objectId\", heroId);\n\n/Users/clufter/dev/delivery/src/screens/profile.js:\n   41  \t\ttry {\n   42  \t\t\tthis.setState({busy:true})\n   43: \t\t\tconst query = new Parse.Query(helper.tbls.AG);\n   44  \t\t\tquery.select(['first_name', 'last_name', 'phone']);\n   45  \t\t\tlet result = await query.get(heroId);\t\t\t\n\n/Users/clufter/dev/delivery/src/screens/startup.js:\n  135  \tverifyOtp = async () => {\n  136  \t\ttry {\n  137: \t\t\tconst agentQuery = new Parse.Query(helper.tbls.AG);\n  138  \t\t\tagentQuery.equalTo(\"phone\", parseInt(this.state.phone_no));\n  139  \t\t\tagentQuery.equalTo(\"hpin\", parseInt(this.state.wrt_otp));\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 876,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/screens/home.js",
+			"settings":
+			{
+				"buffer_size": 12445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "android/app/src/main/res/values/strings.xml",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "Fresl"
+					},
+					"BgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApAAAAAAAAAAcAAABDbHVmdGVyKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAAC8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAACwAAAAAAAAALAAAAAAAAAABAAAAbA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "hLine"
+					},
+					"BQAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/clufter/dev/delivery"
+	],
+	"file_history":
+	[
+		"/Users/clufter/dev/delivery/src/screens/home.js",
+		"/Users/clufter/dev/delivery/src/libs/Switch/index.js",
+		"/Users/clufter/dev/delivery/src/screens/deliveryScreen.js",
+		"/Users/clufter/dev/delivery/src/screens/pickupScreen.js",
+		"/Users/clufter/dev/delivery/src/screens/notify.js",
+		"/Users/clufter/dev/delivery/src/screens/profile.js",
+		"/Users/clufter/dev/delivery/android/settings.gradle",
+		"/Users/clufter/dev/delivery/android/app/build.gradle",
+		"/Users/clufter/dev/delivery/android/app/src/main/java/com/foodbazzar/MainApplication.java",
+		"/Users/clufter/dev/delivery/src/components/taskAccepter.js",
+		"/Users/clufter/dev/delivery/src/components/assignedViewer.js",
+		"/Users/clufter/dev/delivery/src/screens/startup.js",
+		"/Users/clufter/dev/delivery/src/assets/helper.js",
+		"/Users/clufter/dev/delivery/src/screens/splashScreen.js",
+		"/Users/clufter/dev/delivery/src/libs/userdb.js",
+		"/Users/clufter/dev/delivery/src/screens/taskScreen.js",
+		"/Users/clufter/dev/delivery/App.js",
+		"/Users/clufter/dev/delivery/src/components/odrDetailsViewer.js",
+		"/Users/clufter/dev/delivery/src/components/taskCard.js",
+		"/Users/clufter/dev/delivery/src/libs/request.js",
+		"/Users/clufter/dev/delivery/src/screens/history.js",
+		"/Users/clufter/dev/delivery/src/pickupScreen.js",
+		"/Users/clufter/dev/delivery/src/components/singleSlider.js",
+		"/Users/clufter/dev/delivery/android/build.gradle",
+		"/Users/clufter/dev/delivery/android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/clufter/dev/delivery/metro.config.js",
+		"/Users/clufter/dev/Vendor/App.js",
+		"/Users/clufter/dev/Vendor/src/screens/kitchen.js",
+		"/Users/clufter/dev/Vendor/src/components/product.js",
+		"/Users/clufter/dev/Vendor/src/components/busy.js",
+		"/Users/clufter/dev/Vendor/src/components/dateAndTime.js",
+		"/Users/clufter/dev/Vendor/package.json",
+		"/Users/clufter/dev/Vendor/node_modules/@react-native-community/datetimepicker/src/datetimepicker.js",
+		"/Users/clufter/dev/Vendor/src/components/icon.js",
+		"/Users/clufter/dev/Vendor/src/assets/lang.js",
+		"/Users/clufter/dev/Vendor/node_modules/@react-native-community/datetimepicker/src/constants.js",
+		"/Users/clufter/dev/Vendor/node_modules/idb-keyval/package.json",
+		"/Users/clufter/dev/Vendor/metro.config.js",
+		"/Users/clufter/dev/Vendor/src/libs/idb-keyval/index.js",
+		"/Users/clufter/dev/Vendor/src/libs/idb-keyval/package.json",
+		"/Users/clufter/dev/Vendor/node_modules/idb-keyval/dist/index.js",
+		"/Users/clufter/dev/Vendor/src/assets/helper.js",
+		"/Users/clufter/dev/Vendor/android/build.gradle",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/package.json",
+		"/Users/clufter/dev/Vendor/android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/clufter/dev/Vendor/android/gradle.properties",
+		"/Users/clufter/dev/Vendor/src/libs/PlacePicker/android/gradle.properties",
+		"/Users/clufter/dev/Vendor/android/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java",
+		"/Users/clufter/dev/Vendor/android/app/build.gradle",
+		"/Users/clufter/dev/Vendor/android/settings.gradle",
+		"/Users/clufter/dev/Vendor/src/reanimated.hack.groovy",
+		"/Users/clufter/dev/Vendor/android/app/src/main/java/com/foodbazzar/MainApplication.java",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/android/build.gradle",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/mock.js",
+		"/Users/clufter/dev/Vendor/babel.config.js",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/layoutReanimation/ReanimatedUIImplementation.java",
+		"/Users/clufter/dev/Vendor/src/components/vegNonVeg.js",
+		"/Users/clufter/dev/Vendor/src/screens/addFood.js",
+		"/Users/clufter/dev/Vendor/src/screens/photos.js",
+		"/Users/clufter/dev/Vendor/src/components/imageUploader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/productScrapper.js",
+		"/Users/clufter/Desktop/fleetx/src/request.js",
+		"/Users/clufter/Desktop/fleetx/src/com/picker.js",
+		"/Users/clufter/Desktop/fleetx/src/com/multiUploader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/uploader.js",
+		"/Users/clufter/Desktop/fleetx/src/screens/catManager.js",
+		"/Users/clufter/Desktop/fleetx/src/App.js",
+		"/Users/clufter/Desktop/fleetx/src/com/clsBtn.js",
+		"/Users/clufter/Downloads/VendorFood.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/src/index.js",
+		"/Users/clufter/Desktop/fleetx/package.json",
+		"/Users/clufter/Desktop/fleetx/src/com/searchablePicker.js",
+		"/Users/clufter/Desktop/fleetx/src/screens/productManager.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/helper.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/react-filepond/package.json",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/package.json",
+		"/Users/clufter/Desktop/fleetx/node_modules/react-filepond/lib/index.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/lib/index.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/sampleData.json",
+		"/Users/clufter/Desktop/fleetx/src/com/loader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/err.js",
+		"/Users/clufter/Desktop/Fleet/app.json",
+		"/Users/clufter/Desktop/fleetx/src/com/hr.js",
+		"/Users/clufter/Desktop/Fleet/parse-dashboard-config.json",
+		"/Users/clufter/Desktop/fleetx/src/taskViewer.js",
+		"/Users/clufter/Desktop/fleetx/src/home.js",
+		"/Users/clufter/Desktop/fleetx/src/statusSwitcher.js",
+		"/Users/clufter/Desktop/fleetx/src/order.js",
+		"/Users/clufter/Desktop/fleetx/src/icon.js",
+		"/Users/clufter/Desktop/fleetx/src/datePicker.js",
+		"/Users/clufter/Desktop/fleetx/src/dashboard.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/package.json",
+		"/Users/clufter/Desktop/fleetx/src/screens/package.json",
+		"/Users/clufter/Desktop/Fleet/cloud/agentFunctions.js",
+		"/Users/clufter/Desktop/Fleet/cloud/utils.js",
+		"/Users/clufter/Desktop/Fleet/cloud/main.js",
+		"/Users/clufter/Desktop/Fleet/terminal",
+		"/Users/clufter/Desktop/Fleet/cloud/helper.js",
+		"/Users/clufter/Desktop/Fleet/cloud/functions.js",
+		"/Users/clufter/Desktop/fleetx/build/index.html",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/sliderCustomLabel.js",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/MultiSlider.js",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/DefaultLabel.js",
+		"/Users/clufter/Desktop/fleetx/craco.config.js",
+		"/Users/clufter/Desktop/fleetx/package-lock.json",
+		"/Users/clufter/Desktop/fleetx/src/response.js",
+		"/Users/clufter/Desktop/fleetx/src/helper.js",
+		"/Users/clufter/Desktop/fleetx/public/index.html",
+		"/Users/clufter/Desktop/703844.php",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/OrderCard.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/Vendor.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/User.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/LiveOrdersHelper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Login.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/ReceiptBuilder.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Helper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/OrderList.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/VendorList.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/Connect.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/LiveOrders.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Model/OrderItem.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/ProgressTimer.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/Stepper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/NewOrders.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Vendors.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Main.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Model/UserDB.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/FormData.java"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"/Users/clufter/dev/delivery/src/screens,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"parse.Q",
+			"Bar",
+			"react-native-progress",
+			"Ripple",
+			"header",
+			"call",
+			"<review",
+			"items",
+			"alert",
+			"taskAccepter",
+			"agent",
+			"wrt_otp",
+			"verifyOtp",
+			"verifyAttempt",
+			"user_id",
+			"_stamp",
+			"OdrDetailsViewer",
+			"orderDetails",
+			"loadData",
+			"showDe",
+			"showDetails",
+			"cont",
+			"assignedViewer",
+			"floatingCashSheet",
+			"renderFCS",
+			"sheetRef",
+			"openTask",
+			"TaskActionBar",
+			"cloudPerform",
+			"helper.FLEETX_CANCEL",
+			"TaskActionBar",
+			"taskType",
+			"TASK_DELIVERY",
+			"TASK_PICKUP",
+			"const {text, color} = helper.getStatusData(status);",
+			"Pickup",
+			".d",
+			"TaskActionBar",
+			"handleStatusChange",
+			"TaskActionBar",
+			"renderFooter",
+			",",
+			"pickup_id",
+			"<TaskActionBar",
+			"TaskActionBar",
+			"handleStatusChange",
+			"ReadyBar",
+			"foodReviewDone",
+			"<Review",
+			"foodItems",
+			"onFoodChange",
+			"review",
+			"openTask",
+			"reviewed",
+			"dataList",
+			"tempData",
+			"pickup.",
+			"order_id",
+			",",
+			"TaskScreen",
+			"openTask",
+			"PendingTaskViewer",
+			"heroId",
+			"update",
+			"AssignedViewer",
+			"TaskAccepter",
+			"maps",
+			"d.toS",
+			"showTaskAccepter",
+			"renderTask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 876,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										163,
+										170
+									],
+									[
+										406,
+										413
+									],
+									[
+										683,
+										690
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/screens/home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9186,
+								9210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "android/app/src/main/res/values/strings.xml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 220.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "delivery.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "man",
+		"selected_items":
+		[
+			[
+				"man",
+				"~/dev/manager/manager.sublime-project"
+			],
+			[
+				"fleet",
+				"~/Desktop/fleetx/Fleetx.sublime-project"
+			],
+			[
+				"jus",
+				"~/dev/justify/justify.sublime-project"
+			],
+			[
+				"",
+				"~/Desktop/Fleet/cloud/fleet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
