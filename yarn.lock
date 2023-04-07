@@ -7140,10 +7140,10 @@ react-native-animatable@^1.3.3:
   dependencies:
     prop-types "^15.7.2"
 
-react-native-blurhash@^1.0.27:
-  version "1.0.27"
-  resolved "https://registry.yarnpkg.com/react-native-blurhash/-/react-native-blurhash-1.0.27.tgz#da9c2c9221db207ce31b779bb83906b401a7dfc2"
-  integrity sha512-x6DukbVyBiqe/evaLSGt4QFK5PQPqtAtzjORRMIVyBi/ESeXxWX/PFQ0mMWnSgz4S1Ol9WyiXTJ943skcYVmUw==
+react-native-blurhash@1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/react-native-blurhash/-/react-native-blurhash-1.1.10.tgz#3969af24ebab098976cba90d100ba157760d3132"
+  integrity sha512-ScLdguCk+g9er2ccdwArNet1BOMoU7MClHV2MiNheHwn6HFr9vDkFPnUG011B5ddzCJlqj9JazFBNnxwhSWZhg==
 
 react-native-crypto-js@1.0.0:
   version "1.0.0"

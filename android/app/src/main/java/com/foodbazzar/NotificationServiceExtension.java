@@ -15,7 +15,6 @@ import com.onesignal.OSNotificationReceivedEvent;
 import com.onesignal.OneSignal.OSRemoteNotificationReceivedHandler;
 
 import android.database.sqlite.SQLiteStatement;
-import com.facebook.react.modules.storage.ReactDatabaseSupplier;
 
 import org.json.JSONObject;
 import java.lang.System;
